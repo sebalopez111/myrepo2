@@ -8,8 +8,8 @@
 
 ## Pools
 - [ ] All
-- [ ] Pool A
-- [ ] Pool B
+- [X] Pool A
+- [X] Pool B
 - [ ] Pool C
 
 ## Revert on test failure?
