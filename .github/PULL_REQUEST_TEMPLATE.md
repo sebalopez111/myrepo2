@@ -12,9 +12,14 @@
 - [X] Pool B
 - [ ] Pool C
 
+## Requires actions during deploy (i.e. flush a memcached cluster)?
+<!-- If yes, please add a description and coordinate with  -->
+- [X] No
+- [Y] Yes
+
 ## Revert on test failure?
 - [ ] Yes
-- [ ] No
+- [X] No
 
 ## Tests
 <!-- 
